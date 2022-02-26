@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"IntEquRelation"},{"p":"<Unnamed>","l":"IntEquRelationArrays"},{"p":"<Unnamed>","l":"IntEquRelationSetOfSets"},{"p":"<Unnamed>","l":"IntRelation"},{"p":"<Unnamed>","l":"IntRelationArrays"}]
